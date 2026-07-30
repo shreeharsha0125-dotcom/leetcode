@@ -1,11 +1,13 @@
-class Solution():
+class Solution:
     def finalValueAfterOperations(self, operations):
         x = 0
+
         for ope in operations:
-            if(ope == "--X" or ope == "X--"):
-                x -= 1
-            if(ope == "++X" or ope == "X++"):
+            if '+' in ope:
                 x += 1
+            else:
+                x -= 1
+
         return x
 operations = ["--X","X++","X++"]
 obj = Solution()

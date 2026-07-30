@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

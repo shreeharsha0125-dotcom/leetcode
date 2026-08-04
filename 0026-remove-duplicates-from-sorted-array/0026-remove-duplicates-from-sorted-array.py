@@ -1,6 +1,5 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        
         n = len(nums)
         result = []
         k = 0

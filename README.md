@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3731-find-missing-elements](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->

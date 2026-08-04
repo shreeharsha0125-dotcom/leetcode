@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -50,9 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->

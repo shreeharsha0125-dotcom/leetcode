@@ -1,6 +1,6 @@
 class Solution(object):
     def majorityElement(self, nums):
-        nums.sort()
+    
         data = {}
         for i in nums:
             if i not in data:

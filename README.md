@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/2652-sum-multiples) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |

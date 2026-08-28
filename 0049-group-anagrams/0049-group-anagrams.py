@@ -16,10 +16,7 @@ class Solution(object):
 strs = ["eat","tea","tan","ate","nat","bat"]
 obj = Solution()
 print(obj.groupAnagrams(strs))
-    
-strs = ["eat","tea","tan","ate","nat","bat"]
-obj = Solution()
-print(obj.groupAnagrams(strs))
+
         
             
 

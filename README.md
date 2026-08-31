@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0049-group-anagrams) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0125-valid-palindrome) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0169-majority-element) |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

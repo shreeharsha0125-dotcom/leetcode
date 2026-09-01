@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0242-valid-anagram) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0217-contains-duplicate) |
@@ -136,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

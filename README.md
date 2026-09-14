@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0414-third-maximum-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3731-find-missing-elements](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/shreeharsha0125-dotcom/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
